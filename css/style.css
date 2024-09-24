@@ -1,5 +1,5 @@
 #wrapper {
-width:0 auto;
+width:auto;
 height: 1000px;
 margin:0 auto;
 border:1px solid #000000;
@@ -64,13 +64,13 @@ height:8%;
 background-color:#0f0
 }
 #logo {
-width:25%;
+width:20%;
 height:100%;
 background-color:rgb(232, 243, 16);
 float:left;
 }
 #banner {
-width:75%;
+width:80%;
 height:100%;
 background-color:rgb(240, 6, 162);	
 float:left;
